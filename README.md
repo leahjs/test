@@ -1,4 +1,4 @@
 # test
 testing
 
-![This is image text](markdowntutorial.com/favicon.ico)
+![This is image text](http://markdowntutorial.com/favicon.ico)
